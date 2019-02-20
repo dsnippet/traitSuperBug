@@ -1,0 +1,2 @@
+import thud;
+class Frop {} 
